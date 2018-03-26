@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Mar 25 14:04:42 CST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\HP\\workspace2\\netdisk\\WebRoot\\WEB-INF\\lib\\spring-web-4.3.7.RELEASE.jar=D\:\\Program Files\\apache-tomcat-7.0.11\\wtpwebapps\\netdisk\\WEB-INF\\lib\\spring-web-4.3.7.RELEASE.jar
+org.eclipse.jst.jee.server\:netdisk=D\:\\Program Files\\apache-tomcat-7.0.11\\wtpwebapps\\netdisk
